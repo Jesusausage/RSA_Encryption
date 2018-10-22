@@ -75,7 +75,7 @@ bool testPrime(long long int n) {
 	divisor += 2;
     }
     return 1;
-}
+} 
 
 
 long long int euclidean_alg(int a, long long int b) {
