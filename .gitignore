@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Unignore .cpp files
+!*.cpp
+
+# Unignore .h files
+!*.h
+
+# Unignore makefiles
+!makefile
